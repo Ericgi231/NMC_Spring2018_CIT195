@@ -1,0 +1,7 @@
+E:\NMC\2018 Spring\CIT 195\week08\Grant121_QuickLists\Grant121_QuickLists\obj\Debug\Grant121_QuickLists.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\week08\Grant121_QuickLists\Grant121_QuickLists\obj\Debug\Grant121_QuickLists.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\week08\Grant121_QuickLists\Grant121_QuickLists\bin\Debug\Grant121_QuickLists.exe.config
+E:\NMC\2018 Spring\CIT 195\week08\Grant121_QuickLists\Grant121_QuickLists\bin\Debug\Grant121_QuickLists.exe
+E:\NMC\2018 Spring\CIT 195\week08\Grant121_QuickLists\Grant121_QuickLists\bin\Debug\Grant121_QuickLists.pdb
+E:\NMC\2018 Spring\CIT 195\week08\Grant121_QuickLists\Grant121_QuickLists\obj\Debug\Grant121_QuickLists.exe
+E:\NMC\2018 Spring\CIT 195\week08\Grant121_QuickLists\Grant121_QuickLists\obj\Debug\Grant121_QuickLists.pdb

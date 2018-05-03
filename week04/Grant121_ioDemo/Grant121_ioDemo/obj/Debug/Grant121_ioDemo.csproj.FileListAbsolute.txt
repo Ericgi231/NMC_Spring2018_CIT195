@@ -1,0 +1,7 @@
+E:\NMC\2018 Spring\CIT 195\week04\Grant121_ioDemo\Grant121_ioDemo\bin\Debug\Grant121_ioDemo.exe.config
+E:\NMC\2018 Spring\CIT 195\week04\Grant121_ioDemo\Grant121_ioDemo\bin\Debug\Grant121_ioDemo.exe
+E:\NMC\2018 Spring\CIT 195\week04\Grant121_ioDemo\Grant121_ioDemo\bin\Debug\Grant121_ioDemo.pdb
+E:\NMC\2018 Spring\CIT 195\week04\Grant121_ioDemo\Grant121_ioDemo\obj\Debug\Grant121_ioDemo.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\week04\Grant121_ioDemo\Grant121_ioDemo\obj\Debug\Grant121_ioDemo.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\week04\Grant121_ioDemo\Grant121_ioDemo\obj\Debug\Grant121_ioDemo.exe
+E:\NMC\2018 Spring\CIT 195\week04\Grant121_ioDemo\Grant121_ioDemo\obj\Debug\Grant121_ioDemo.pdb

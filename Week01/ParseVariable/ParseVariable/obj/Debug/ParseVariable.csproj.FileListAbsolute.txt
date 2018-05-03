@@ -1,0 +1,7 @@
+E:\NMC\2018 Spring\CIT 195\Week01\ParseVariable\ParseVariable\bin\Debug\ParseVariable.exe.config
+E:\NMC\2018 Spring\CIT 195\Week01\ParseVariable\ParseVariable\bin\Debug\ParseVariable.exe
+E:\NMC\2018 Spring\CIT 195\Week01\ParseVariable\ParseVariable\bin\Debug\ParseVariable.pdb
+E:\NMC\2018 Spring\CIT 195\Week01\ParseVariable\ParseVariable\obj\Debug\ParseVariable.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\Week01\ParseVariable\ParseVariable\obj\Debug\ParseVariable.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\Week01\ParseVariable\ParseVariable\obj\Debug\ParseVariable.exe
+E:\NMC\2018 Spring\CIT 195\Week01\ParseVariable\ParseVariable\obj\Debug\ParseVariable.pdb

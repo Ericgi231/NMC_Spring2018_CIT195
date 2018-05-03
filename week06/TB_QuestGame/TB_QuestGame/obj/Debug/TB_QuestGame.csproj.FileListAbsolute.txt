@@ -1,0 +1,16 @@
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\bin\Debug\TB_QuestGame.exe.config
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\bin\Debug\TB_QuestGame.exe
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\bin\Debug\TB_QuestGame.pdb
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\obj\Debug\TB_QuestGame.exe
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\obj\Debug\TB_QuestGame.pdb
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TheAionProject.S1_Starter\obj\Debug\TB_QuestGame.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe.config
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.exe
+C:\Users\velisj\Desktop\_Temp\Demo_TheAionProject _Starter\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.pdb
+E:\NMC\2018 Spring\CIT 195\week06\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe.config
+E:\NMC\2018 Spring\CIT 195\week06\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.exe
+E:\NMC\2018 Spring\CIT 195\week06\TB_QuestGame\TB_QuestGame\bin\Debug\TB_QuestGame.pdb
+E:\NMC\2018 Spring\CIT 195\week06\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\week06\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\week06\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.exe
+E:\NMC\2018 Spring\CIT 195\week06\TB_QuestGame\TB_QuestGame\obj\Debug\TB_QuestGame.pdb

@@ -1,0 +1,16 @@
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S2_Starter\bin\Debug\TheAionProject.exe.config
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S2_Starter\obj\Debug\TheAionProject.S2_Starter.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S2_Starter\bin\Debug\TheAionProject.exe
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S2_Starter\bin\Debug\TheAionProject.pdb
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S2_Starter\obj\Debug\TheAionProject.exe
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S2_Starter\obj\Debug\TheAionProject.pdb
+C:\Users\velisj\Google Drive\NMC\Courses\CIT195\CIT195 - Demonstrations\Demo - The Aion Project\S2\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\bin\Debug\TheAionProject.exe.config
+C:\Users\velisj\Google Drive\NMC\Courses\CIT195\CIT195 - Demonstrations\Demo - The Aion Project\S2\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\obj\Debug\TheAionProject.exe
+C:\Users\velisj\Google Drive\NMC\Courses\CIT195\CIT195 - Demonstrations\Demo - The Aion Project\S2\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\obj\Debug\TheAionProject.pdb
+E:\NMC\2018 Spring\CIT 195\week07\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\bin\Debug\TheAionProject.exe.config
+E:\NMC\2018 Spring\CIT 195\week07\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\bin\Debug\TheAionProject.exe
+E:\NMC\2018 Spring\CIT 195\week07\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\bin\Debug\TheAionProject.pdb
+E:\NMC\2018 Spring\CIT 195\week07\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\obj\Debug\TheAionProject.S2_Starter.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\week07\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\obj\Debug\TheAionProject.S2_Starter.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\week07\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\obj\Debug\TheAionProject.exe
+E:\NMC\2018 Spring\CIT 195\week07\Demo_TheAionProject.S2_Starter\TheAionProject.S2_Starter\obj\Debug\TheAionProject.pdb

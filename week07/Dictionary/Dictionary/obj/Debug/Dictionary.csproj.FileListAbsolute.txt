@@ -1,0 +1,7 @@
+E:\NMC\2018 Spring\CIT 195\week07\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\NMC\2018 Spring\CIT 195\week07\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\NMC\2018 Spring\CIT 195\week07\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\NMC\2018 Spring\CIT 195\week07\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\week07\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\week07\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\NMC\2018 Spring\CIT 195\week07\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

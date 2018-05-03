@@ -1,0 +1,14 @@
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S3Plus_Solution\bin\Debug\TheAionProject.S3Plus_Solution.exe.config
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S3Plus_Solution\bin\Debug\TheAionProject.S3Plus_Solution.exe
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S3Plus_Solution\bin\Debug\TheAionProject.S3Plus_Solution.pdb
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.csprojResolveAssemblyReference.cache
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.csproj.CoreCompileInputs.cache
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.exe
+C:\Users\velisj\Git\NMC\CIT195\Demo_TheAionProject\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.pdb
+E:\NMC\2018 Spring\CIT 195\week13\Demo_TheAionProject.S3Plus_Starter\TheAionProject.S3Plus_Solution\bin\Debug\TheAionProject.S3Plus_Solution.exe.config
+E:\NMC\2018 Spring\CIT 195\week13\Demo_TheAionProject.S3Plus_Starter\TheAionProject.S3Plus_Solution\bin\Debug\TheAionProject.S3Plus_Solution.exe
+E:\NMC\2018 Spring\CIT 195\week13\Demo_TheAionProject.S3Plus_Starter\TheAionProject.S3Plus_Solution\bin\Debug\TheAionProject.S3Plus_Solution.pdb
+E:\NMC\2018 Spring\CIT 195\week13\Demo_TheAionProject.S3Plus_Starter\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\week13\Demo_TheAionProject.S3Plus_Starter\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\week13\Demo_TheAionProject.S3Plus_Starter\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.exe
+E:\NMC\2018 Spring\CIT 195\week13\Demo_TheAionProject.S3Plus_Starter\TheAionProject.S3Plus_Solution\obj\Debug\TheAionProject.S3Plus_Solution.pdb

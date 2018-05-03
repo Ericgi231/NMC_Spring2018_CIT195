@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grant121_Inheritance", "Grant121_Inheritance\Grant121_Inheritance.csproj", "{F67363AE-ABB2-43F8-A2EC-3F38E86F62F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67363AE-ABB2-43F8-A2EC-3F38E86F62F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67363AE-ABB2-43F8-A2EC-3F38E86F62F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67363AE-ABB2-43F8-A2EC-3F38E86F62F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67363AE-ABB2-43F8-A2EC-3F38E86F62F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9D50830-2ECB-4251-BB8A-862AA4590AC5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+H:\NMC\2018 Spring\CIT 195\week03\Grant121_QuickCode\Grant121_QuickCode\bin\Debug\Grant121_QuickCode.exe.config
+H:\NMC\2018 Spring\CIT 195\week03\Grant121_QuickCode\Grant121_QuickCode\bin\Debug\Grant121_QuickCode.exe
+H:\NMC\2018 Spring\CIT 195\week03\Grant121_QuickCode\Grant121_QuickCode\bin\Debug\Grant121_QuickCode.pdb
+H:\NMC\2018 Spring\CIT 195\week03\Grant121_QuickCode\Grant121_QuickCode\obj\Debug\Grant121_QuickCode.csprojResolveAssemblyReference.cache
+H:\NMC\2018 Spring\CIT 195\week03\Grant121_QuickCode\Grant121_QuickCode\obj\Debug\Grant121_QuickCode.csproj.CoreCompileInputs.cache
+H:\NMC\2018 Spring\CIT 195\week03\Grant121_QuickCode\Grant121_QuickCode\obj\Debug\Grant121_QuickCode.exe
+H:\NMC\2018 Spring\CIT 195\week03\Grant121_QuickCode\Grant121_QuickCode\obj\Debug\Grant121_QuickCode.pdb

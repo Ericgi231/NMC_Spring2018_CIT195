@@ -1,0 +1,7 @@
+E:\NMC\2018 Spring\CIT 195\week02\Grant121_VideoGameClass\Grant121_VideoGameClass\bin\Debug\Grant121_VideoGameClass.exe.config
+E:\NMC\2018 Spring\CIT 195\week02\Grant121_VideoGameClass\Grant121_VideoGameClass\bin\Debug\Grant121_VideoGameClass.exe
+E:\NMC\2018 Spring\CIT 195\week02\Grant121_VideoGameClass\Grant121_VideoGameClass\bin\Debug\Grant121_VideoGameClass.pdb
+E:\NMC\2018 Spring\CIT 195\week02\Grant121_VideoGameClass\Grant121_VideoGameClass\obj\Debug\Grant121_VideoGameClass.csprojResolveAssemblyReference.cache
+E:\NMC\2018 Spring\CIT 195\week02\Grant121_VideoGameClass\Grant121_VideoGameClass\obj\Debug\Grant121_VideoGameClass.csproj.CoreCompileInputs.cache
+E:\NMC\2018 Spring\CIT 195\week02\Grant121_VideoGameClass\Grant121_VideoGameClass\obj\Debug\Grant121_VideoGameClass.exe
+E:\NMC\2018 Spring\CIT 195\week02\Grant121_VideoGameClass\Grant121_VideoGameClass\obj\Debug\Grant121_VideoGameClass.pdb
